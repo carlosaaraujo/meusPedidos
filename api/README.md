@@ -5,7 +5,7 @@
 </h3>
 
 ## 📷 Screenshot
-<img src="https://github.com/carlosaaraujo/meusPedidos/assets/46418534/f47829eb-6fdf-47d9-bcb7-b9d173e31080" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46418534/251795988-3697ed4a-6ae5-4d31-849b-32ff1df5d0a9.png" />
 
 ## 💻 Projeto
 
@@ -23,7 +23,7 @@ Reforçar a utilização de componentes funcionais, uso do typescript e socket i
 
 ### Modelagem do banco de dados
 
-![image](https://github.com/carlosaaraujo/meusPedidos/assets/46418534/c55dc7c7-a539-468b-b36f-76403de5b935)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/46418534/251796856-abf37eb5-f93b-4f55-86a0-5d103aa792e2.png)
 
 ## 🔧 Tecnologias
 
