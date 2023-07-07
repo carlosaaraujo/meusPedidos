@@ -5,7 +5,7 @@
 </h3>
 
 ## 📷 Screenshot
-<img src="https://github.com/carlosaaraujo/meusPedidos/assets/46418534/f47829eb-6fdf-47d9-bcb7-b9d173e31080" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/46418534/251796662-55531ed2-d16c-44fe-b73a-9695dd9c3a5f.png" />
 
 ## 💻 Projeto
 
